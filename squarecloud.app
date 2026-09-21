@@ -1,0 +1,5 @@
+DISPLAY_NAME=R6StatusBot
+MAIN=bot.py
+MEMORY=100
+VERSION=recommended
+AUTORESTART=true
